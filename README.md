@@ -58,4 +58,5 @@ We may update this Privacy Policy from time to time. If we make material changes
 Your continued use of LAZAR after changes means you accept the updated Privacy Policy.
 11. Contact information
 If you have any questions, concerns, or requests about this Privacy Policy or your personal data, please contact us at:
-Email: support@growthlabapps.com Company: Nikabo Wimbi Company LTD, trading as Growth Lab Apps Address: P.O. Box 1597, Zanzibar, Tanzania
+Email: support@growthlabapps.com 
+Company: Nikabo Wimbi Company LTD, trading as Growth Lab Apps Address: P.O. Box 1597, Zanzibar, Tanzania
