@@ -1,1 +1,1 @@
-# LAZAR-Privacy-Policy
+# Privacy Policy
