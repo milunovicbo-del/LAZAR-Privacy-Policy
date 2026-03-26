@@ -39,10 +39,9 @@ We do not use any third‑party analytics or advertising SDKs, so your data is n
 We take reasonable technical and organisational measures to protect your personal data against loss, misuse, unauthorised access, disclosure, or alteration.
 However, no system is 100% secure, and you should keep your account details confidential and use strong passwords.
 7. Data retention
-We will only keep your personal data for as long as necessary to:
-Deliver the services you use in LAZAR.
-Meet legal, accounting, or reporting requirements.
-If you delete your account or request deletion of your data, we will erase your information unless we are required by law to keep it.
+We retain your personal data only for as long as your account is active and as needed to provide you with our services. When you delete your account, all associated personal data is automatically and permanently deleted from our systems immediately upon account deletion.
+If you do not delete your account but stop using the app, we will retain your data for up to 12 months of inactivity, after which your account and all associated data will be automatically deleted.
+We may retain certain anonymized, non-personally identifiable data for analytics and service improvement purposes, as this data cannot be used to identify you.
 8. Your rights (for users in regulated regions)
 If you are in a country with data‑protection laws (e.g. those based on GDPR or similar frameworks), you may have the right to:
 Request access to your personal data.
